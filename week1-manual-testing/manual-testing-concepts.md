@@ -1,31 +1,64 @@
-# What is QA?
+# 🧪 Week 1: Manual Testing Concepts
 
-QA (Quality Assurance) ensures the quality of software through testing processes. It verifies that the application works as expected.
+## ✅ What is QA (Quality Assurance)?
 
-# What is SDLC?
+QA stands for **Quality Assurance**, which focuses on **preventing defects** in software by improving the processes used in development and testing. QA is **process-oriented**, not product-oriented.
 
-SDLC (Software Development Life Cycle) is the process of planning, creating, testing, and deploying a software system.
+---
 
-Phases:
+## ✅ What is Software Testing?
+
+Software testing is a process of evaluating a system to check whether it meets the specified requirements and to identify defects.
+
+Types of Software Testing:
+- **Manual Testing**
+- **Automation Testing**
+
+---
+
+## ✅ What is Manual Testing?
+
+Manual testing is the process of **manually checking the software** for defects. Testers execute test cases without using any automation tools.
+
+📌 Key Points:
+- Performed by human testers
+- Cost-effective for small projects
+- Useful for UI/UX testing
+
+---
+
+## ✅ SDLC (Software Development Life Cycle)
+
+The process of developing software in well-defined phases:
+
 1. Requirement Gathering
-2. Design
-3. Development
+2. System Design
+3. Implementation (Coding)
 4. Testing
 5. Deployment
 6. Maintenance
 
-# What is STLC?
+---
 
-STLC (Software Testing Life Cycle) focuses only on testing phase.
+## ✅ STLC (Software Testing Life Cycle)
 
-Phases:
+STLC is the sequence of activities conducted during the testing process:
+
 1. Requirement Analysis
 2. Test Planning
 3. Test Case Design
 4. Test Environment Setup
 5. Test Execution
-6. Test Closure
+6. Test Cycle Closure
 
-# Difference between SDLC and STLC
+---
 
-SDLC covers full project, STLC only testing part.
+## ✅ SDLC vs STLC
+
+| SDLC (Development)              | STLC (Testing)                     |
+|----------------------------------|------------------------------------|
+| Focus on building the software   | Focus on testing the software      |
+| Involves development team        | Involves testing/QA team           |
+| Includes coding & deployment     | Includes test case design & execution |
+
+---
